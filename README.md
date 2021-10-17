@@ -26,6 +26,6 @@ python demo.py
 
 # Author
 
-牧　大佑
+maki daisuke
 
 daisukemaki1003@gmail.com
