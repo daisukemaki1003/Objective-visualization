@@ -26,7 +26,6 @@ python demo.py
 
 # Author
 
-作成情報を列挙する
-
 牧　大佑
+
 daisukemaki1003@gmail.com
