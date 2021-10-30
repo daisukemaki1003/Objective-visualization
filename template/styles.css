@@ -1,0 +1,59 @@
+h1 {
+  position: relative;
+  overflow: hidden;
+  padding: 1rem 1rem 1rem 180px;
+  border: 2px solid #000;
+  margin: 40px;
+  height: 60px;
+  line-height: 60px;
+  width: 500px;
+}
+
+h1:before {
+  position: absolute;
+  top: -150%;
+  left: -100px;
+  width: 240px;
+  height: 300%;
+  content: '';
+  -webkit-transform: rotate(25deg);
+  transform: rotate(25deg);
+  background: #000;
+}
+
+h1 span {
+  font-size: 40px;
+  font-size: 4rem;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  display: block;
+  padding-top: 18px;
+  padding-left: 18px;
+  color: #fff;
+}
+
+
+.content {
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 30px;
+  position: relative;
+  margin: 50px 30px;
+}
+
+.content-item {
+  background-color: #fff;
+  color: #333;
+  font-weight: bold;
+  left: 30px;
+  padding: 3px 10px;
+  position: absolute;
+  top: -15px;
+}
+
+.content p {
+    font-weight: bold;
+    font-size: 2rem;
+}

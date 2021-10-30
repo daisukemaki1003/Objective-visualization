@@ -1,0 +1,14 @@
+{
+  "Title": "ポートフォリオの作成",
+  "Do_num": "01",
+  "Contents": [
+    {
+      "content_title": "Explanation",
+      "content_value": "エンジニア就活のためのポートフォリオの作成\nReadMeファイルの編集\nホームページへの挿入\nObjective visualizationso ソースコードに\nコメントを淹れてみやすいようにする。"
+    },
+    {
+      "content_title": "Process",
+      "content_value": "１、ホームページへの挿入\n２、ソースコードにコメント入力\n３、ReadMeファイルの編集"
+    }
+  ]
+}

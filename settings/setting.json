@@ -1,0 +1,15 @@
+{
+  "data_dir": "../data",
+  "include_dir": "../include",
+  "output_dir": "../output",
+  "src_dir": "../src",
+  "template_dir": "../template",
+  "template": {
+    "html": "template.tpl",
+    "css": "styles.css",
+    "item_names": "item_names.json"
+  },
+  "accumulated_file": "20211030165307",
+  "desktop_img_path": "/Users/makidaisuke/Desktop/Projects/Objective-visualization/image/desktop_picture.jpg",
+  "desktop_base_img": "/Users/makidaisuke/Desktop/Projects/Objective-visualization/image/pexels-roberto-nickson-2478248.jpg"
+}
