@@ -1,7 +1,4 @@
 # Objective-visualization
-
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-
 # Features
 
 目標の設定と記録の確認ができる。
