@@ -5,18 +5,6 @@
 
 デスクトップ画面に保存した画像を表示することで設定した目標を忘れないようになっている。
 
-
-
-template
-
-template item options
-
-text, checkbok
-
-- goal
-- task
-- memo
-
 # Requirement
 
 * tkinter
